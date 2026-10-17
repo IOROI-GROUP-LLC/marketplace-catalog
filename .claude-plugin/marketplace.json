@@ -1,0 +1,45 @@
+{
+  "name": "ioroi-group-marketplace",
+  "description": "IOROI GROUP Marketplace",
+  "owner": {
+    "name": "合同会社IOROI GROUP"
+  },
+  "plugins": [
+    {
+      "name": "context-mode",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mksglu/context-mode"
+      }
+    },
+    {
+      "name": "yomiyasu",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/nanaism/yomiyasu"
+      }
+    },
+    {
+      "name": "claude-mem",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/thedotmack/claude-mem"
+      }
+    },
+    {
+      "name": "freee-mcp",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/freee/freee-mcp"
+      }
+    },
+    {
+      "name": "superpowers",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/obra/superpowers"
+      }
+    }
+  ]
+}
+
