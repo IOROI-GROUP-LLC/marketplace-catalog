@@ -39,6 +39,13 @@
         "source": "url",
         "url": "https://github.com/obra/superpowers"
       }
+    },
+    {
+      "name": "frontend-slides",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zarazhangrui/frontend-slides"
+      }
     }
   ]
 }
