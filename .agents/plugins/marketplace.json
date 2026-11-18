@@ -43,6 +43,14 @@
         "url": "https://github.com/obra/superpowers"
       },
       "category": "Productivity"
+    },
+    {
+      "name": "frontend-slides",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zarazhangrui/frontend-slides"
+      },
+      "category": "Productivity"
     }
   ]
 }
